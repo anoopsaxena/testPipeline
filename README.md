@@ -1,2 +1,2 @@
 # testPipeline
-Simple CICD pipeline for tetsing purpose.
+Simple CICD pipeline for testing purpose.
